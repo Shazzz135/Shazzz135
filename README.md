@@ -1,5 +1,7 @@
 # 💫 About Me:
-Im currenty in Second year taking 264, next I'll be taking 213.
+🩼 Im currently taking 264.
+🤓 Im strong in Python, C and Swift
+📩 Reach me at: sayy3423@mylaurier.ca / nickshahbaz135@gmail.com
 
 
 # 💻 Tech Stack:
