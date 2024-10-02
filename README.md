@@ -1,6 +1,6 @@
 # 💫 About Me:
-🩼 Im currently taking 264.
-🤓 Im strong in Python, C and Swift
+🩼 Im currently taking 264                                                                                                                                     
+🤓 Im strong in Python, C and Swift                                                                                                                            
 📩 Reach me at: sayy3423@mylaurier.ca / nickshahbaz135@gmail.com
 
 
