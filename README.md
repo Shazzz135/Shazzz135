@@ -1,6 +1,6 @@
 # 💫 About Me:
-🩼 Im currently taking CP264                                                                                                                                     
-🤓 Im strong in Python, C and Swift                                                                                                                            
+🩼 I'm currently in 2nd year                                                                                                                                   
+🤓 I'm strongest in Python, C, and Swift                                                                                                                            
 📩 Reach me at: sayy3423@mylaurier.ca / nickshahbaz135@gmail.com
 
 
