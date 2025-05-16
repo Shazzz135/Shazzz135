@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>🩼 I'm currently in 2nd year                                                                                                                                   <br>🤓 I'm strongest in Python, C, and Swift                                                                                                                            <br>📩 Reach me at: sayy3423@mylaurier.ca / nickshahbaz135@gmail.com
+💫 About Me:<br>🩼 I'm currently in 3rd year                                                                                                                                   <br>🤓 I'm strongest in Python, C, and Swift                                                                                                                            <br>📩 Reach me at: sayy3423@mylaurier.ca / nickshahbaz135@gmail.com
 
 
 # 💻 Tech Stack:
